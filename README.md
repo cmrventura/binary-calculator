@@ -1,3 +1,2 @@
 # binary-calculator
-a simple binary calculator solution
-
+a simple binary calculator solution in node.js
